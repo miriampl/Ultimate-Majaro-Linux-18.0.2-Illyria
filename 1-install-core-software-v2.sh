@@ -16,7 +16,7 @@ set -e
 
 yes | sudo pacman -S vlc clementine curl glances grsync
 yes | sudo pacman -S nload keepass2 xdotool meld speedtest-cli gimp
-yes | sudo pacman -S screenfetch
+yes | sudo pacman -S screenfetch KVPM
 
 #Application info:
 # VLC - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. 
